@@ -2616,7 +2616,7 @@ fieldset:disabled a.btn {
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #e88028;
+  background-color: #c97025;
   border-color: #ee3e0d;
 }
 
@@ -10665,8 +10665,9 @@ hr.light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 72px);
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(45, 64, 61, 0.8)), to(rgba(45, 64, 61, 0.8))), url("../img/paraninfo.jpg");
-  background: linear-gradient(to bottom, rgba(45, 64, 61, 0.8) 0%, rgba(45, 64, 61, 0.8) 100%), url("../img/paraninfo.jpg");
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(45, 64, 61, 0.6)), to(rgba(45, 64, 61, 0.6))), url("../img/paraninfo1.png");
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(45, 64, 61, 0.6)), to(rgba(45, 64, 61, 0.6))), url("../img/paraninfo1.png");
+  background: linear-gradient(to bottom, rgba(45, 64, 61, 0.8) 0%, rgba(45, 64, 61, 0.6) 100%), url("../img/paraninfo1.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
